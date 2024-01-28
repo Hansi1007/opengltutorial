@@ -1,0 +1,15 @@
+{
+    "name": "gui",
+    "version-string": "0.1.0",
+    "dependencies": [
+        {
+            "name": "fmt"
+        },
+        {
+            "name": "opengl"
+        },
+        {
+            "name": "glfw3"
+        }
+    ]
+}
